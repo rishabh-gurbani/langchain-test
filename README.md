@@ -1,5 +1,5 @@
 # Conversational Fashion Outfit Generator
 
-Frontend: 
+Frontend: https://github.com/rishabh-gurbani/Flipkart
 
-Demo Video: 
+Demo Video: https://youtu.be/ZlEHHupm1jA
